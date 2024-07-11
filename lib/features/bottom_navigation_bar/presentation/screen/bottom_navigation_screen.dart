@@ -8,12 +8,11 @@ import 'package:responsive_sizer/responsive_sizer.dart';
 import 'package:store_app/core/utils/assets_manager.dart';
 import 'package:store_app/core/utils/hex_color.dart';
 import 'package:store_app/features/home/presentation/bloc/home_bloc.dart';
-import 'package:store_app/features/orders/presentation/screens/orders_screen.dart';
+import 'package:store_app/features/home/presentation/pages/home_page_screen.dart';
 
 import '../../../../config/themes/theme_cubit.dart';
 import '../../../../core/constants/assets_paths.dart';
 import '../../../../core/utils/font/font_manager.dart';
-import '../../../products/presentation/screens/home_page_screen.dart';
 import '../cubit/bottom_navigation_cubit.dart';
 
 class BottomNavigationBarScreen extends StatefulWidget {

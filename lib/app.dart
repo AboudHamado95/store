@@ -3,8 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:get/get.dart';
 import 'package:store_app/features/home/presentation/bloc/home_bloc.dart';
-import 'package:store_app/features/orders/presentation/bloc/orders_bloc.dart';
-import 'package:store_app/features/products/presentation/bloc/products_bloc.dart';
+
 import 'package:store_app/injection.dart';
 
 import 'config/routes/app_routes.dart';

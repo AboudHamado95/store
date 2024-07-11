@@ -17,7 +17,6 @@ import 'package:store_app/core/utils/font/font_manager.dart';
 import 'package:store_app/core/utils/hex_color.dart';
 import 'package:store_app/features/home/data/models/offers_model.dart';
 import 'package:store_app/features/home/presentation/bloc/home_bloc.dart';
-import 'package:store_app/features/products/presentation/widgets/card_list_widget.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
